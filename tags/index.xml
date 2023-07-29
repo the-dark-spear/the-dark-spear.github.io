@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on The Dark Spear</title>
+        <link>https://material-art-master.github.io/tags/</link>
+        <description>Recent content in Tags on The Dark Spear</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 13 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://material-art-master.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>convolution</title>
+        <link>https://material-art-master.github.io/tags/convolution/</link>
+        <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://material-art-master.github.io/tags/convolution/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>dynamic programming</title>
+        <link>https://material-art-master.github.io/tags/dynamic-programming/</link>
+        <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://material-art-master.github.io/tags/dynamic-programming/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>maths</title>
+        <link>https://material-art-master.github.io/tags/maths/</link>
+        <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://material-art-master.github.io/tags/maths/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>monotonic stack</title>
+        <link>https://material-art-master.github.io/tags/monotonic-stack/</link>
+        <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://material-art-master.github.io/tags/monotonic-stack/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>partition</title>
+        <link>https://material-art-master.github.io/tags/partition/</link>
+        <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://material-art-master.github.io/tags/partition/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>segment tree</title>
+        <link>https://material-art-master.github.io/tags/segment-tree/</link>
+        <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://material-art-master.github.io/tags/segment-tree/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>two pointers</title>
+        <link>https://material-art-master.github.io/tags/two-pointers/</link>
+        <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://material-art-master.github.io/tags/two-pointers/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>data strucutures</title>
+        <link>https://material-art-master.github.io/tags/data-strucutures/</link>
+        <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://material-art-master.github.io/tags/data-strucutures/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>random</title>
+        <link>https://material-art-master.github.io/tags/random/</link>
+        <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://material-art-master.github.io/tags/random/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>data structures</title>
+        <link>https://material-art-master.github.io/tags/data-structures/</link>
+        <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://material-art-master.github.io/tags/data-structures/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>persistent segment tree</title>
+        <link>https://material-art-master.github.io/tags/persistent-segment-tree/</link>
+        <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://material-art-master.github.io/tags/persistent-segment-tree/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>walk on segment tree</title>
+        <link>https://material-art-master.github.io/tags/walk-on-segment-tree/</link>
+        <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://material-art-master.github.io/tags/walk-on-segment-tree/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>xor</title>
+        <link>https://material-art-master.github.io/tags/xor/</link>
+        <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://material-art-master.github.io/tags/xor/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
