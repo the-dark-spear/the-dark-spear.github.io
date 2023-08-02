@@ -6,7 +6,18 @@
         <description>Recent content in Competitive Programming on The Dark Spear</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 13 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://material-art-master.github.io/categories/competitive-programming/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 02 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://material-art-master.github.io/categories/competitive-programming/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>D - Flexible String Revisited</title>
+        <link>https://material-art-master.github.io/p/d-flexible-string-revisited/</link>
+        <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://material-art-master.github.io/p/d-flexible-string-revisited/</guid>
+        <description>&lt;img src="https://material-art-master.github.io/p/d-flexible-string-revisited/CP.jpg" alt="Featured image of post D - Flexible String Revisited" /&gt;&lt;h2 id=&#34;problem&#34;&gt;Problem:&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://codeforces.com/contest/1778/problem/D&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://codeforces.com/contest/1778/problem/D&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>E. Max to the Right of Min</title>
         <link>https://material-art-master.github.io/p/e.-max-to-the-right-of-min/</link>
         <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
